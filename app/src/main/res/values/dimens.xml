@@ -50,4 +50,11 @@
 
     <dimen name="widget_def_width">180dp</dimen>
     <dimen name="widget_def_height">100dp</dimen>
+
+    <dimen name="sleep_timer_dialog_title_top">15dp</dimen>
+    <dimen name="sleep_timer_dialog_title_left">15dp</dimen>
+    <dimen name="text_size_sleep_timer_dialog_tvDesc_">12sp</dimen>
+    <dimen name="sleep_timer_dialog_rb_padding">15dp</dimen>
+    <dimen name="sleep_timer_dialog_button_end">30dp</dimen>
+    <dimen name="sleep_timer_dialog_button_bottom">15dp</dimen>
 </resources>

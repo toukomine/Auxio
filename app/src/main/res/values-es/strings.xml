@@ -282,4 +282,13 @@
     <string name="set_intelligent_sorting">Ignorar artículos al ordenar</string>
     <string name="set_intelligent_sorting_desc">Ignorar palabras como \"the\" al ordenar por nombre (funciona mejor con música en inglés)</string>
     <string name="desc_new_playlist">Crear una nueva lista de reproducción</string>
+    <string name="lbl_sleep_timer">Sleep Timer</string>
+    <string name="lbl_sleep_timer_desc" />
+    <string name="lbl_close" />
+    <string name="lbl_minute_15" />
+    <string name="lbl_minute_30" />
+    <string name="lbl_hour_one" />
+    <string name="lbl_hour_two" />
+    <string name="lbl_confirm">Confirm</string>
+    <string name="lbl_hour_three">3Hour</string>
 </resources>

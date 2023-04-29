@@ -72,4 +72,13 @@
     <string name="lbl_album">專輯</string>
     <string name="lbl_singles">單曲</string>
     <string name="lbl_single">單曲</string>
+    <string name="lbl_sleep_timer">休眠計時器</string>
+    <string name="lbl_sleep_timer_desc">計時器結束時停止播放 </string>
+    <string name="lbl_close" />
+    <string name="lbl_minute_15" />
+    <string name="lbl_minute_30" />
+    <string name="lbl_hour_one" />
+    <string name="lbl_hour_two" />
+    <string name="lbl_confirm">Confirm</string>
+    <string name="lbl_hour_three">3Hour</string>
 </resources>

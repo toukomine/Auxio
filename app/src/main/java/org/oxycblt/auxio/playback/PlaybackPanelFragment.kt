@@ -38,6 +38,7 @@ import org.oxycblt.auxio.music.Song
 import org.oxycblt.auxio.music.resolveNames
 import org.oxycblt.auxio.navigation.MainNavigationAction
 import org.oxycblt.auxio.navigation.NavigationViewModel
+import org.oxycblt.auxio.playback.picker.SleepTimerPickerDialog
 import org.oxycblt.auxio.playback.state.RepeatMode
 import org.oxycblt.auxio.playback.ui.StyledSeekBar
 import org.oxycblt.auxio.ui.ViewBindingFragment
@@ -169,6 +170,12 @@ class PlaybackPanelFragment :
                     navModel.mainNavigateTo(
                         MainNavigationAction.Directions(
                             MainFragmentDirections.actionShowDetails(song.uid)))
+                }
+                true
+            }
+            R.id.action_sleep_timer -> {
+                activity?.supportFragmentManager?.let {
+                    SleepTimerPickerDialog().show(it, getString(R.string.lbl_sleep_timer))
                 }
                 true
             }

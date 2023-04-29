@@ -244,4 +244,13 @@
     <string name="set_restore_desc">Palauta aiemmin tallennettu toiston tila (jos olemassa)</string>
     <string name="set_dirs_mode_exclude_desc">Musiikkia <b>ei</b> ladata valitsemistasi kansioista.</string>
     <string name="set_replay_gain_mode_dynamic">Suosi albumia, jos sellaista toistetaan</string>
+    <string name="lbl_sleep_timer">Sleep Timer</string>
+    <string name="lbl_sleep_timer_desc" />
+    <string name="lbl_close" />
+    <string name="lbl_minute_15" />
+    <string name="lbl_minute_30" />
+    <string name="lbl_hour_one" />
+    <string name="lbl_hour_two" />
+    <string name="lbl_confirm">Confirm</string>
+    <string name="lbl_hour_three">3Hour</string>
 </resources>

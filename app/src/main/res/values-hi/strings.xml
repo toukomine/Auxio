@@ -56,4 +56,13 @@
     <string name="lbl_ok">ठीक है</string>
     <string name="lbl_artist">कलाकार</string>
     <string name="lbl_date_added">तिथि जोड़ी गई</string>
+    <string name="lbl_sleep_timer">Sleep Timer</string>
+    <string name="lbl_sleep_timer_desc" />
+    <string name="lbl_close" />
+    <string name="lbl_minute_15" />
+    <string name="lbl_minute_30" />
+    <string name="lbl_hour_one" />
+    <string name="lbl_hour_two" />
+    <string name="lbl_confirm">Confirm</string>
+    <string name="lbl_hour_three">3Hour</string>
 </resources>

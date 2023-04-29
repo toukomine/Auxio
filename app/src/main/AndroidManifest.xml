@@ -6,6 +6,7 @@
     <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <!-- Bluetooth auto-connect functionality (Disabled until permission workflow can be made) -->
@@ -130,5 +131,7 @@
                 android:name="android.appwidget.provider"
                 android:resource="@xml/widget_info" />
         </receiver>
+
+        <receiver android:name=".playback.system.SleepTimerReceiver"/>
     </application>
 </manifest>

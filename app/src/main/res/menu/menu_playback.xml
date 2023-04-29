@@ -18,4 +18,10 @@
         android:id="@+id/action_song_detail"
         android:title="@string/lbl_song_detail"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sleep_timer"
+        android:title="@string/lbl_sleep_timer"
+        app:showAsAction="never"
+        />
 </menu>

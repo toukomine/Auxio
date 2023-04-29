@@ -100,4 +100,13 @@
     <string name="set_replay_gain_mode_track">Naisin ang track</string>
     <string name="set_pre_amp_warning">Babala: Ang pag-iba ng pre-amp sa mataas na positibong ayos ay maaaring magdulot ng karurukan sa ilang mga audio track.</string>
     <string name="set_pre_amp_without">Ayos na \'di gamit ang mga tag</string>
+    <string name="lbl_sleep_timer">Sleep Timer</string>
+    <string name="lbl_sleep_timer_desc" />
+    <string name="lbl_close" />
+    <string name="lbl_minute_15" />
+    <string name="lbl_minute_30" />
+    <string name="lbl_hour_one" />
+    <string name="lbl_hour_two" />
+    <string name="lbl_confirm">Confirm</string>
+    <string name="lbl_hour_three">3Hour</string>
 </resources>

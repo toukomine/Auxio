@@ -276,4 +276,13 @@
     <string name="set_intelligent_sorting">排序时忽略冠词</string>
     <string name="set_intelligent_sorting_desc">按名称排序时忽略类似“the”这样的冠词（对英文歌曲的效果最好）</string>
     <string name="desc_new_playlist">创建新的播放列表</string>
+    <string name="lbl_sleep_timer">休眠计时器</string>
+    <string name="lbl_sleep_timer_desc">计时器结束时停止播放</string>
+    <string name="lbl_close">关闭</string>
+    <string name="lbl_minute_15">15分钟</string>
+    <string name="lbl_minute_30">30分钟</string>
+    <string name="lbl_hour_one">1小时</string>
+    <string name="lbl_hour_two">2小时</string>
+    <string name="lbl_confirm">确定</string>
+    <string name="lbl_hour_three">3小时</string>
 </resources>
